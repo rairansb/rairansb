@@ -6,7 +6,9 @@
 [![E-mail](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5573988150582)
 [![E-mail](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rairansb/)
 
-![Rairan](https://github-readme-stats.vercel.app/api?username=rairansb&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rairansb&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rairansb&layout=compact)](https://github.com/rairansb/github-readme-stats)
 
 ## Tecnologias Estudadas
 <div style="display:inline_block"><br/>
